@@ -122,7 +122,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     margin-bottom: 0.5rem;
     font-weight: 500;
     line-height: 1.3;
-    color: #183B56;
+    color: #14857a;
 }
 
 h1, .h1 {
@@ -22462,7 +22462,7 @@ button.close {
 }
 
 .headroom--not-top.navbar-theme-secondary {
-    background-color: #183B56;
+    background-color: #14857a;
 }
 
 .headroom--not-top.navbar-theme-secondary .navbar-brand-light {
@@ -31867,21 +31867,21 @@ label {
 
 .btn-dark {
     color: #ffffff;
-    background-color: #183B56;
-    border-color: #183B56;
+    background-color: #238d83;
+    border-color: #207a71;
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(23, 31, 56, 0.075);
 }
 
 .btn-dark:hover {
     color: #ffffff;
-    background-color: #102638;
-    border-color: #0d202e;
+    background-color: #207a71;
+    border-color: #238d83;
 }
 
 .btn-check:focus + .btn-dark, .btn-dark:focus {
     color: #ffffff;
-    background-color: #102638;
-    border-color: #0d202e;
+    background-color: #207a71;
+    border-color: #238d83;
     box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(23, 31, 56, 0.075), 0 0 0 0.2rem rgba(59, 88, 111, 0.5);
 }
 
@@ -37119,7 +37119,7 @@ blockquote {
 }
 
 .text-dark a:not(.btn), .text-dark h1, .text-dark .h1, .text-dark h2, .text-dark .h2, .text-dark h3, .text-dark .h3, .text-dark h4, .text-dark .h4, .text-dark h5, .text-dark .h5, .text-dark h6, .text-dark .h6, .text-dark .h1, .text-dark .h2, .text-dark .h3, .text-dark .h4, .text-dark .h5, .text-dark .h6, .text-dark .display-1, .text-dark .display-2, .text-dark .display-3, .text-dark .display-4 {
-    color: #183B56;
+    color: #238d83;
 }
 
 .text-dark .text-muted {
